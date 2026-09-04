@@ -1,0 +1,33 @@
+{
+  "pipeCount": 10,
+  "pipeLenPt": 396.85,
+  "pipeTotalPt": 3968.5,
+  "pipeWidthPt": 1.2,
+  "pipeColor": "#0000ff",
+  "hatchCount": 200,
+  "labels": [
+    "KV Cu22",
+    "VV Cu22",
+    "VVC Cu18",
+    "VS DN25",
+    "VS DN25",
+    "KV Cu28",
+    "VV Cu28",
+    "S PP110 1:60",
+    "S PP110 1:60",
+    "D PP110 1:100"
+  ],
+  "calibration": {
+    "p1": [
+      50,
+      780
+    ],
+    "p2": [
+      333.4646,
+      780
+    ],
+    "realMeters": 5,
+    "scale": 50
+  },
+  "pipeTotalMetersAt1to50": 69.99992238889794
+}
